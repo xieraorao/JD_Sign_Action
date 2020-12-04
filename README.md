@@ -1,4 +1,4 @@
-# 基于github action的京东自动化签到 修改再提交
+# 基于github action的京东自动化签到 修改再提交。
 
 ## 介绍
 
